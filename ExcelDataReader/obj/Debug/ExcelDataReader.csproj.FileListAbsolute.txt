@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.exe.config
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.exe
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.pdb
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.dll
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.xml
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.Form1.resources
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.Properties.Resources.resources
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.csproj.CopyComplete
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.exe
+C:\Users\asus\source\repos\ExcelDataReader\ExcelDataReader\obj\Debug\ExcelDataReader.pdb
